@@ -1,0 +1,25 @@
+# Lloc generat per MkDocs
+site/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Secrets i variables d'entorn (claus d'API!)
+.env
+.env.*
+!.env.example
+
+# Dependències de Node dels exemples
+node_modules/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Sistema i editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

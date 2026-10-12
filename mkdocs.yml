@@ -1,0 +1,107 @@
+site_name: M0617 · Programació Assistida per IA
+site_description: Material didàctic del mòdul optatiu M0617 Programació Assistida per IA (2n DAW) · Institut Sabadell
+site_author: Víctor García · Departament d'Informàtica · Institut Sabadell
+site_url: https://victordomgs.github.io/ProgramacioIADAW/
+repo_url: https://github.com/victordomgs/ProgramacioIADAW
+repo_name: victordomgs/ProgramacioIADAW
+edit_uri: edit/main/docs/
+copyright: Institut Sabadell · Departament d'Informàtica · Curs 2026-2027
+
+theme:
+  name: material
+  language: ca
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - navigation.footer
+    - navigation.instant
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - content.code.annotate
+    - content.action.edit
+    - toc.follow
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: cyan
+      toggle:
+        icon: material/weather-night
+        name: Mode fosc
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: cyan
+      toggle:
+        icon: material/weather-sunny
+        name: Mode clar
+  icon:
+    repo: fontawesome/brands/github
+
+extra_css:
+  - assets/stylesheets/extra.css
+
+extra_javascript:
+  - assets/javascripts/mathjax.js
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.details
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+nav:
+  - Inici: index.md
+  - El mòdul:
+      - modul/index.md
+      - Resultats d'aprenentatge: modul/resultats-aprenentatge.md
+      - Temporització: modul/temporitzacio.md
+      - Avaluació i normes: modul/avaluacio.md
+  - "BA1 · Models d'IA i prompt engineering":
+      - ba1/index.md
+      - "AEA0 · Presentació i diagnòstic": ba1/aea00-inici/index.md
+      - "AEA1 · Prompt engineering": ba1/aea01-prompt-engineering/index.md
+      - "AEA2 · Modernització d'un SaaS": ba1/aea02-modernitzacio-saas/index.md
+      - "AEA3 · Desplegament d'OpenClaw": ba1/aea03-desplegament-openclaw/index.md
+      - "AEA4 · Agent camp OpenClaw": ba1/aea04-agent-openclaw/index.md
+  - "BA2 · Serveis d'IA i RAG":
+      - ba2/index.md
+      - "RA3 · Consum d'APIs i serveis d'IA": ba2/ra3-apis-serveis-ia/index.md
+      - "RA4 · Arquitectures de dades i RAG": ba2/ra4-rag/index.md
+  - "BA3 · Ètica i dades":
+      - ba3/index.md
+      - "RA5 · Ètica, seguretat i privacitat": ba3/ra5-etica/index.md
+  - Recursos:
+      - recursos/index.md
+      - Glossari: recursos/glossari.md
+      - Bibliografia i enllaços: recursos/bibliografia.md
