@@ -35,10 +35,5 @@ Al llarg del mòdul treballarem com integrar la intel·ligència artificial en e
 
 </div>
 
-## Normes bàsiques
-
-- L'assistència és **obligatòria**: més d'un 20 % de faltes comporta un **NP** al mòdul.
-- Qualsevol còpia, plagi o **ús no autoritzat d'un LLM** en una activitat o examen es qualifica amb un **0**.
-- Cal aprovar **tots els RA** per aprovar el mòdul.
-
+!!! important "Normes bàsiques"
 Consulta tots els detalls a [Avaluació i normes](modul/avaluacio.md).
