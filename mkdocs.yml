@@ -89,6 +89,7 @@ nav:
       - Avaluació i normes: modul/avaluacio.md
   - "BA1 · Models d'IA i prompt engineering":
       - ba1/index.md
+      - Teoria: ba1/teoria/index.md
       - "AEA0 · Presentació i diagnòstic": ba1/aea00-inici/index.md
       - "AEA1 · Prompt engineering": ba1/aea01-prompt-engineering/index.md
       - "AEA2 · Modernització d'un SaaS": ba1/aea02-modernitzacio-saas/index.md
