@@ -39,21 +39,15 @@ Presentacions de teoria del bloc d'avaluació 1. Cada presentació s'obre a pant
 -   :material-message-text-outline: **4. Introducció a l'enginyeria de peticions**
 
     ---
-    [:octicons-link-external-24: Obre la presentació](https://victordomgs.github.io/m0617_ra2/notes/4.%20Introducci%C3%B3%20a%20l'enginyeria%20de%20peticions.html){ .md-button target=_blank }
+    Introducció a la nova disciplina que s'encarrega de l'optimització de peticions sobre models LLM.
+
+    [:octicons-play-24: Obre la presentació](https://victordomgs.github.io/m0617_ra2/notes/4.%20Introducci%C3%B3%20a%20l'enginyeria%20de%20peticions.html){ .md-button target=_blank }
 
 -   :material-strategy: **5. Estratègia de prompting**
 
     ---
-    [:octicons-link-external-24: Obre la presentació](https://victordomgs.github.io/m0617_ra2/notes/5.%20Estrat%C3%A8gia%20de%20prompting.html){ .md-button target=_blank }
+    Flux de treball de l'enginyeria d'instruccions, components d'una instrucció, técnica few-shot, chain-of-thought i problemes en la redacció de prompts.
+    
+    [:octicons-play-24: Obre la presentació](https://victordomgs.github.io/m0617_ra2/notes/5.%20Estrat%C3%A8gia%20de%20prompting.html){ .md-button target=_blank }
 
 </div>
-
-## Relació amb les activitats
-
-| Presentació | Activitats relacionades |
-|-------------|-------------------------|
-| 1. Fonaments de la IA i evolució | [AEA0 · Què sabem sobre la IA?](../aea00-inici/index.md#diagnostic) |
-| 2. IA a l'ecosistema web | [AEA2 · Modernització d'un SaaS](../aea02-modernitzacio-saas/index.md) |
-| 3. Assistents per a la programació | [AEA1 · Prompt engineering](../aea01-prompt-engineering/index.md) |
-| 4. Introducció a l'enginyeria de peticions | [AEA1 · Prompt engineering](../aea01-prompt-engineering/index.md) |
-| 5. Estratègia de prompting | [AEA1 · Prompt engineering](../aea01-prompt-engineering/index.md) |
