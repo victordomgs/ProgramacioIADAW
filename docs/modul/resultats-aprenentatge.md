@@ -28,17 +28,6 @@ Curs 2026-2027
 | 2.3 | S'ha verificat la integritat i el funcionament correcte del codi generat, comprovant que s'integra adequadament en l'arquitectura client-servidor prevista. |
 | 2.4 | S'ha validat el compliment dels estàndards de ciberseguretat i les bones pràctiques de programació en tot el codi obtingut mitjançant la intel·ligència artificial. |
 
-??? note "Criteris alternatius del RA2 (models d'aprenentatge automàtic)"
-    El document de RA inclou també una versió del RA2 orientada a l'aprenentatge automàtic (*Machine Learning*), amb la mateixa numeració:
-
-    | CA | Descripció |
-    |----|------------|
-    | 2.1 | Distingeix els diferents paradigmes d'aprenentatge automàtic: supervisat, no supervisat i per reforç. |
-    | 2.2 | Identifica les diferents fases del cicle de vida d'un model de ML (recol·lecció de dades, neteja, entrenament, avaluació i desplegament). |
-    | 2.3 | Executa processos d'ajust fi (*fine-tuning*) o adaptació eficient (PEFT/LoRA) sobre models existents per especialitzar-los en una tasca concreta. |
-    | 2.4 | Utilitza eines i entorns de programació (Notebooks, Python, PyTorch/TensorFlow o Hugging Face) per carregar i provar models. |
-    | 2.5 | Interpreta el comportament del model identificant fenòmens com l'*overfitting*, l'*underfitting* i les al·lucinacions. |
-
 ## RA3 · Consum d'APIs i explotació de serveis d'IA { #ra3 }
 
 > Integra serveis i eines d'IA en aplicacions web mitjançant el consum d'APIs i SDKs de proveïdors d'IA.
