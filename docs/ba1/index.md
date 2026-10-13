@@ -1,6 +1,6 @@
 # BA1 · Models d'IA i prompt engineering
 
-**RA1 + RA2 · 27 h · Pes: 40,9 %** · Setmanes 1–9 (14/09/2026 – 13/11/2026) · [Calendari](../modul/temporitzacio.md#calendari-setmanal)
+**RA1 + RA2 · 27 h · Pes: 40,9 %** · Setmanes 1–9 (14/09/2026 – 13/11/2026)
 
 ## Resultats d'aprenentatge
 
