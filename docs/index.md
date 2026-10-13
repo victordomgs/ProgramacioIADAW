@@ -28,7 +28,7 @@ Al llarg del mòdul treballarem com integrar la intel·ligència artificial en e
     ---
     RA5 · 6 h. Biaixos, RGPD, riscos de seguretat i AI Act.
 
--   :material-book-open-variant: **[El mòdul](modul/index.md)**
+-   :material-book-open-variant: **[Programació del mòdul](modul/index.md)**
 
     ---
     Resultats d'aprenentatge, temporització, avaluació i normes.
