@@ -84,5 +84,3 @@ Inici de classes: **14/09/2026** · 3 hores setmanals. La setmana actual es most
 | 33 | 24/05/2027 | <span class="bloc bloc-m12">M12</span> | 3 |  |
 
 </div>
-
-[:material-file-pdf-box: Descarrega la temporització (PDF)](fitxers/DAW_M0617_Temporitzacio_2026-27.pdf){ .md-button }
