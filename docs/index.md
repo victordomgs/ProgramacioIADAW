@@ -16,7 +16,7 @@ Al llarg del mòdul treballarem com integrar la intel·ligència artificial en e
 -   :material-robot-outline: **[BA1 · Models d'IA i prompt engineering](ba1/index.md)**
 
     ---
-    RA1 + RA2 · 27 h. Sistemes d'IA, *prompt engineering* aplicat a components web, agents amb OpenClaw.
+    RA1 + RA2 · 27 h. Sistemes d'IA, *prompt engineering* aplicat a components web, programació assistida amb agents.
 
 -   :material-api: **[BA2 · Serveis d'IA i RAG](ba2/index.md)**
 
