@@ -1,7 +1,7 @@
 # AEA1 · Pràctica de prompting
 
 <div class="fitxa-aea" markdown>
-
+|||
 |---|---|
 | **Durada** | 3 h aprox. |
 | **Resultats d'aprenentatge** | [RA1](../../modul/resultats-aprenentatge.md#ra1), [RA2](../../modul/resultats-aprenentatge.md#ra2) |
