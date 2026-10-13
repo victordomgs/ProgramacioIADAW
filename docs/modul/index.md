@@ -33,4 +33,4 @@ Vegeu també [Recursos](../recursos/index.md).
 - [Resultats d'aprenentatge i criteris d'avaluació](resultats-aprenentatge.md)
 - [Temporització](temporitzacio.md)
 - [Avaluació i normes](avaluacio.md)
-- Currículum oficial DAW: <https://portaldogc.gencat.cat/utilsEADOP/PDF/6958/1444503.pdf>
+- [Currículum oficial DAW](https://portaldogc.gencat.cat/utilsEADOP/PDF/6958/1444503.pdf)
