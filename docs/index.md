@@ -6,7 +6,6 @@
     - **Cicle:** CFGS Desenvolupament d'Aplicacions Web · 2n curs
     - **Durada:** 66 hores · 3 hores setmanals
     - **Curs:** 2026-2027
-    - **Docent:** Víctor García · Departament d'Informàtica
 
 ## Què aprendrem?
 
