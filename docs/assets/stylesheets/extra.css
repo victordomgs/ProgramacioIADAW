@@ -26,3 +26,22 @@
   white-space: pre-wrap;
   overflow-wrap: anywhere;
 }
+
+/* Mida de la lletra: més petita que la de Material per defecte
+   (Material: 125 % / 137,5 % / 150 %). Tota la tipografia del lloc
+   s'escala a partir d'aquest valor; per ajustar-la, canvieu aquests percentatges. */
+html {
+  font-size: 112.5%;
+}
+
+@media screen and (min-width: 100em) {
+  html {
+    font-size: 118.75%;
+  }
+}
+
+@media screen and (min-width: 125em) {
+  html {
+    font-size: 125%;
+  }
+}
