@@ -27,9 +27,8 @@ Les presentacions del bloc es troben a la pàgina de [Teoria](teoria/index.md):
 | [AEA3 · Desplegament d'OpenClaw](aea03-desplegament-openclaw/index.md) | 2 h | 1.1, 1.2, 1.3, 1.4, 2.1, 2.4 | Examen |
 | [AEA4 · Agent camp OpenClaw](aea04-agent-openclaw/index.md) | 3 h | 1.1, 1.2, 1.3, 1.4, 2.1, 2.4 | Examen i pràctica avaluable |
 
-!!! note "Resta del bloc"
-    Segons el [calendari](../modul/temporitzacio.md#calendari-setmanal), la setmana 6 inclou l'**examen** del bloc i una introducció a la programació amb models integrats a l'IDE, i les setmanes 7–9 es dediquen al **projecte de programació assistida amb IA**.
-
 ## Avaluació del bloc
 
-*Pendent de definir: ponderació entre exàmens i pràctiques, dates i criteris de recuperació.*
+La nota del BA es reparteix en: 
+- Activitats pràctiques: 30%
+- Proves avaluatives: 70%
