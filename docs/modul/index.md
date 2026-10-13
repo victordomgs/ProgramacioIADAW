@@ -17,16 +17,11 @@ Per facilitar l'avaluació, el mòdul es divideix en tres blocs d'avaluació (BA
 
 ## Estratègies metodològiques
 
-Les generals indicades al Projecte Curricular de Centre (PCC) de FP. El mòdul té un enfocament eminentment pràctic: cada activitat combina una breu introducció teòrica amb exercicis i pràctiques sobre casos reals de desenvolupament web.
+Les generals indicades al [Projecte Curricular de Centre](https://docs.google.com/document/d/1p0tsldhs6W2PjTNaKHRlUGbQ4Z-xtwIzZMSvhXFPgTw/edit?tab=t.0). El mòdul té un enfocament eminentment pràctic: cada activitat combina una breu introducció teòrica amb exercicis i pràctiques sobre casos reals de desenvolupament web.
 
 ## Espais, equipaments i recursos
 
-Els generals indicats al Projecte Curricular de Centre. A més, aquest mòdul fa ús de:
-
-- Els **servidors habilitats al centre** per a l'alumnat.
-- El **servidor d'IA** del centre.
-
-Vegeu també [Recursos](../recursos/index.md).
+Els generals indicats al [Projecte Curricular de Centre](https://docs.google.com/document/d/1p0tsldhs6W2PjTNaKHRlUGbQ4Z-xtwIzZMSvhXFPgTw/edit?tab=t.0). Aquest mòdul fa ús dels servidors habilitats al centre per estudiants i del servidor d’IA. 
 
 ## Documents de referència
 
