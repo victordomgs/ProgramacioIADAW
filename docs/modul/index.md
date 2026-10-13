@@ -2,7 +2,7 @@
 
 ## Temporització i organització
 
-El mòdul **0617 Programació Assistida per IA** està ubicat al segon curs del cicle formatiu de Desenvolupament d'Aplicacions Web. Té **66 hores** de docència a classe, distribuïdes en **3 hores setmanals**.
+El mòdul **M0617 - Programació Assistida per IA** està ubicat al segon curs del cicle formatiu de Desenvolupament d'Aplicacions Web. Té **66 hores** de docència a classe, distribuïdes en **3 hores setmanals**.
 
 ## Blocs d'avaluació
 
