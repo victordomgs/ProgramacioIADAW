@@ -38,14 +38,14 @@ Els BA suspesos es podran recuperar durant la **segona convocatòria**, que es f
 
 ## Assistència
 
-Se segueixen, de manera general, les instruccions d'assistència definides al Projecte Curricular de Centre.
+Se segueixen, de manera general, les instruccions d'assistència definides al [Projecte Curricular de Centre](https://docs.google.com/document/d/1p0tsldhs6W2PjTNaKHRlUGbQ4Z-xtwIzZMSvhXFPgTw/edit?tab=t.0).
 
 !!! warning "Assistència obligatòria"
     L'assistència a classe és obligatòria. Si un alumne/a presenta **més del 20 % de faltes** totals durant el mòdul, suspendrà el mòdul amb una nota de **NP**.
 
 ## Còpia d'exàmens o d'activitats i altres conductes no permeses
 
-Se segueixen les instruccions generals definides al Projecte Curricular de Centre.
+Se segueixen les instruccions generals definides al [Projecte Curricular de Centre](https://docs.google.com/document/d/1p0tsldhs6W2PjTNaKHRlUGbQ4Z-xtwIzZMSvhXFPgTw/edit?tab=t.0).
 
 !!! danger "Ús no autoritzat d'IA"
     Qualsevol **còpia, plagi o ús no autoritzat d'un LLM** en un examen o pràctica, exercici o activitat, total o parcial, que es detecti serà avaluat amb un **0**.
