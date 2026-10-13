@@ -1,6 +1,6 @@
-# M0617 · Programació Assistida per IA
+# Intel·ligència artificial per al Desenvolupament Web
 
-Benvinguts i benvingudes al mòdul optatiu **Programació Assistida per IA** del 2n curs del CFGS de **Desenvolupament d'Aplicacions Web (DAW)** de l'Institut Sabadell.
+**M0617 - Programació assistida per IA**
 
 !!! info "Dades del mòdul"
     - **Cicle:** CFGS Desenvolupament d'Aplicacions Web · 2n curs
