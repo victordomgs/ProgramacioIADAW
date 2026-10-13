@@ -1,6 +1,6 @@
 # BA1 · Models d'IA i prompt engineering
 
-**RA1 + RA2 · 27 h · Pes: 40,9 %**
+**RA1 + RA2 · 27 h · Pes: 40,9 %** · Setmanes 1–9 (14/09/2026 – 13/11/2026) · [Calendari](../modul/temporitzacio.md#calendari-setmanal)
 
 ## Resultats d'aprenentatge
 
@@ -27,8 +27,8 @@ Les presentacions del bloc es troben a la pàgina de [Teoria](teoria/index.md):
 | [AEA3 · Desplegament d'OpenClaw](aea03-desplegament-openclaw/index.md) | 2 h | 1.1, 1.2, 1.3, 1.4, 2.1, 2.4 | Examen |
 | [AEA4 · Agent camp OpenClaw](aea04-agent-openclaw/index.md) | 3 h | 1.1, 1.2, 1.3, 1.4, 2.1, 2.4 | Examen i pràctica avaluable |
 
-!!! note "Hores pendents de planificar"
-    Les activitats definides sumen 10 h de les 27 h del bloc. La resta d'hores es poden destinar a noves activitats, pràctiques i a l'examen del bloc.
+!!! note "Resta del bloc"
+    Segons el [calendari](../modul/temporitzacio.md#calendari-setmanal), la setmana 6 inclou l'**examen** del bloc i una introducció a la programació amb models integrats a l'IDE, i les setmanes 7–9 es dediquen al **projecte de programació assistida amb IA**.
 
 ## Avaluació del bloc
 

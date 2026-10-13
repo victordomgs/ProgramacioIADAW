@@ -45,3 +45,35 @@ html {
     font-size: 125%;
   }
 }
+
+/* Calendari setmanal: etiquetes de bloc i setmana actual */
+.bloc {
+  display: inline-block;
+  min-width: 3.2em;
+  padding: 0.05em 0.5em;
+  border-radius: 0.3em;
+  font-size: 0.85em;
+  font-weight: 600;
+  text-align: center;
+  white-space: nowrap;
+}
+.bloc-ba1 { background: #e0e7ff; color: #3730a3; }
+.bloc-ba2 { background: #ccfbf1; color: #115e59; }
+.bloc-ba3 { background: #fef3c7; color: #92400e; }
+.bloc-m12 { background: #f3f4f6; color: #4b5563; }
+.bloc-festa { background: #fee2e2; color: #991b1b; }
+
+[data-md-color-scheme="slate"] .bloc-ba1 { background: #312e81; color: #e0e7ff; }
+[data-md-color-scheme="slate"] .bloc-ba2 { background: #134e4a; color: #ccfbf1; }
+[data-md-color-scheme="slate"] .bloc-ba3 { background: #78350f; color: #fef3c7; }
+[data-md-color-scheme="slate"] .bloc-m12 { background: #374151; color: #e5e7eb; }
+[data-md-color-scheme="slate"] .bloc-festa { background: #7f1d1d; color: #fee2e2; }
+
+.calendari tr.setmana-actual td {
+  background: var(--md-accent-fg-color--transparent);
+  font-weight: 600;
+}
+.calendari tr.setmana-actual td:first-child::before {
+  content: "▶ ";
+  color: var(--md-accent-fg-color);
+}

@@ -46,6 +46,7 @@ extra_css:
 
 extra_javascript:
   - assets/javascripts/mathjax.js
+  - assets/javascripts/calendari.js
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
 plugins:
