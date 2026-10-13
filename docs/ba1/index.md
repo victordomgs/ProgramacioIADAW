@@ -30,5 +30,7 @@ Les presentacions del bloc es troben a la pàgina de [Teoria](teoria/index.md):
 ## Avaluació del bloc
 
 La nota del BA es reparteix en: 
-- Activitats pràctiques: 30%
-- Proves avaluatives: 70%
+
+**- Activitats pràctiques:** 30%
+  
+**- Proves avaluatives:** 70%
