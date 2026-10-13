@@ -1,5 +1,8 @@
 # Temporització
 
+!!! warning "Atenció!"
+    Aquest apartat encara es troba en construcció i està subjecte a canvis al llarg del curs.
+    
 ## Hores per resultat d'aprenentatge
 
 | RA | Títol | Hores | Bloc |
@@ -23,6 +26,3 @@
 | BA1 | [AEA4 · Agent camp OpenClaw](../ba1/aea04-agent-openclaw/index.md) | 3 h | RA1, RA2 | 1.1, 1.2, 1.3, 1.4, 2.1, 2.4 | Examen i pràctica avaluable |
 | BA2 | *Pendent de definir* | — | RA3, RA4 | — | — |
 | BA3 | *Pendent de definir* | — | RA5 | — | — |
-
-!!! note "Calendari setmanal"
-    Quan es fixi el calendari del curs, es pot afegir aquí la planificació per setmanes (3 h/setmana).
