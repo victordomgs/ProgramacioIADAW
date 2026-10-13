@@ -1,6 +1,6 @@
 # Resultats d'aprenentatge i criteris d'avaluació
 
-Curs 2026-2027.
+Curs 2026-2027
 
 ## RA1 · Models d'intel·ligència artificial { #ra1 }
 
