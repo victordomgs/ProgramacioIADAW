@@ -1,6 +1,7 @@
 # AEA1 · Pràctica de prompting
 
 <div class="fitxa-aea" markdown>
+    
 |||
 |---|---|
 | **Durada** | 3 h aprox. |
