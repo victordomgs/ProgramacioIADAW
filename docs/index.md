@@ -36,4 +36,4 @@ Al llarg del mòdul treballarem com integrar la intel·ligència artificial en e
 </div>
 
 !!! important "Normes bàsiques"
-Consulta tots els detalls a [Avaluació i normes](modul/avaluacio.md).
+    Consulta tots els detalls a [Avaluació i normes](modul/avaluacio.md).
