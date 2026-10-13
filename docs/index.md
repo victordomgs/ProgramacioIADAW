@@ -34,6 +34,3 @@ Al llarg del mòdul treballarem com integrar la intel·ligència artificial en e
     Resultats d'aprenentatge, temporització, avaluació i normes.
 
 </div>
-
-!!! important "Normes bàsiques"
-    Consulta tots els detalls a [Avaluació i normes](modul/avaluacio.md).
