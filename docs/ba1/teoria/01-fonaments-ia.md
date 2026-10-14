@@ -8,7 +8,10 @@
 | **Intel·ligència artificial** | La intel·ligència exhibida per màquines. |
 | **Màquina intel·ligent** | Un sistema que pot percebre el seu entorn i prendre accions que maximitzen les seves possibilitats d'èxit en un objectiu. |
 
-![Tenim ja una màquina intel·ligent?](img/timboulder-bender.gif){ width="360" loading=lazy }
+<figure markdown="span">
+  ![Bender, el robot de Futurama](img/timboulder-bender.gif){ width="300" loading=lazy }
+  <figcaption>Tenim ja una màquina intel·ligent?</figcaption>
+</figure>
 
 ## Intel·ligència humana i intel·ligència computacional
 
@@ -20,10 +23,6 @@
 - **Turing** deia que la intel·ligència era el resultat de la interacció entre molts processos simples. A partir d'aquesta idea s'han dissenyat gran part dels algorismes que fan servir les nostres màquines avui en dia.
 
 ### Intel·ligència computacional
-
-<figure markdown="span">
-  ![Centre de processament de dades](img/cpd.jpeg){ width="320" loading=lazy }
-</figure>
 
 - La intel·ligència artificial intenta entendre i modelar la intel·ligència humana com un procés computacional.
 - Intentem modelar programes que s'aproximin al que definim com a intel·ligència, per tal de fer-nos la vida més fàcil.
