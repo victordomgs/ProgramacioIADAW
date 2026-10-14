@@ -1,7 +1,5 @@
 # 6. Orquestració d'agents amb OpenClaw
 
-<span class="etiqueta">RA1</span> <span class="etiqueta">RA2</span> Què és OpenClaw, com funciona la seva arquitectura basada en el *Gateway* i com s'instal·la i configura en un sistema Ubuntu.
-
 ## Què és OpenClaw?
 
 **OpenClaw** és un agent d'IA de codi obert i autoallotjat que s'executa en una infraestructura local en lloc d'un servei al núvol gestionat.
@@ -9,7 +7,7 @@
 Aquest enfocament autoallotjat és fonamental, especialment si fem servir un assistent d'IA que pugui interactuar directament amb els nostres fitxers, processos i entorn operatiu, ja que mantenim el control sobre on resideixen les nostres dades.
 
 <figure markdown="span">
-  ![OpenClaw](img/openclaw.svg){ width="380" loading=lazy }
+  ![OpenClaw](img/openclaw.svg){ width="220" loading=lazy }
 </figure>
 
 ## L'arquitectura del Gateway
@@ -36,11 +34,6 @@ sequenceDiagram
     P-->>G: Resultats
     G-->>U: Resposta al xat
 ```
-
-<figure markdown="span">
-  ![Arquitectura d'OpenClaw](img/openclaw.png){ loading=lazy }
-  <figcaption>Arquitectura del Gateway d'OpenClaw</figcaption>
-</figure>
 
 ### El Gateway
 
