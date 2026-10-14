@@ -7,7 +7,7 @@
 El **prompt engineering** (o enginyeria d'instruccions) és la disciplina de dissenyar i optimitzar les peticions que es fan als models d'IA —especialment els **LLM**— per obtenir les respostes desitjades. Consisteix a formular aquestes entrades amb precisió, aportant el context, les pautes i els exemples necessaris perquè el model entengui la intenció de l'usuari i respongui de manera rellevant i útil.
 
 <figure markdown="span">
-  ![Prompts](img/prompts.gif){ width="420" loading=lazy }
+  ![Prompts](img/prompts.gif){ width="250" loading=lazy }
 </figure>
 
 ## Components d'una instrucció
@@ -26,7 +26,7 @@ Pots afegir-hi **qualsevol dada rellevant per resoldre la tasca**. Habitualment,
 Una **tasca** és la instrucció o pregunta que un usuari dona al model perquè generi una resposta. Pot consistir en una consulta directa o en una petició concreta sobre què ha de fer.
 
 <figure markdown="span">
-  ![Pregunta a un model](img/grokQuestion.gif){ width="420" loading=lazy }
+  ![Pregunta a un model](img/grokQuestion.gif){ width="280" loading=lazy }
 </figure>
 
 === "Tasca amb pregunta"
@@ -77,7 +77,7 @@ Now, if you'll excuse me, I must away! There's a ship on the horizon, and it loo
 Els **exemples breus o de referència (*few-shot*)** s'inclouen a la instrucció per mostrar al model com ha de ser una resposta correcta. Són especialment útils per definir-ne l'estil i el to, així com per ajustar el comportament general del model.
 
 <figure markdown="span">
-  ![Exemples](img/example.jpg){ width="420" loading=lazy }
+  ![Exemples](img/example.jpg){ width="320" loading=lazy }
 </figure>
 
 ```text title="Prompt"
@@ -103,7 +103,7 @@ White wine
 El **context** (o informació contextual) són les dades que afegeixes a la instrucció perquè el model les consulti o s'hi basi a l'hora de respondre. Es pot proporcionar en diversos formats, com ara text pla o taules.
 
 <figure markdown="span">
-  ![Context](img/context.gif){ width="520" loading=lazy }
+  ![Context](img/context.gif){ width="320" loading=lazy }
 </figure>
 
 ```text title="Prompt"
@@ -124,10 +124,6 @@ There are 17 green marbles.
 ## Seguretat i resposta estàndard
 
 Hi ha casos en què la majoria de models no responen a la petició de l'usuari. Concretament, si el missatge demana un contingut que contradiu les polítiques d'ús o els criteris de seguretat de l'empresa, el model pot rebutjar la sol·licitud i oferir una resposta estàndard de denegació.
-
-<figure markdown="span">
-  ![Contingut bloquejat](img/redtaped.jpg){ width="420" loading=lazy }
-</figure>
 
 Aquests són alguns dels casos habituals en què el model sol rebutjar la petició:
 
