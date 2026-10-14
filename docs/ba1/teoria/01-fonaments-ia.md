@@ -1,7 +1,5 @@
 # 1. Fonaments de la IA i evolució
 
-<span class="etiqueta">RA1</span> Introducció a la intel·ligència artificial: què és, com es diferencia de la intel·ligència humana, quins paradigmes n'han guiat l'evolució i on s'aplica avui.
-
 ## Què és la intel·ligència artificial?
 
 | Concepte | Definició |
@@ -27,7 +25,7 @@
 ### Intel·ligència computacional
 
 <figure markdown="span">
-  ![Centre de processament de dades](img/cpd.jpeg){ width="560" loading=lazy }
+  ![Centre de processament de dades](img/cpd.jpeg){ width="460" loading=lazy }
 </figure>
 
 - La intel·ligència artificial intenta entendre i modelar la intel·ligència humana com un procés computacional.
@@ -80,19 +78,11 @@ flowchart LR
 
 ### Paradigma simbòlic
 
-<figure markdown="span">
-  ![Regles if-then](img/rain-if.png){ width="480" loading=lazy }
-</figure>
-
 - S'escriuen regles de tipus `if-then` per emular el raonament humà.
 - Útil en medicina o dret per prendre decisions basades en dades estructurades.
 - **Limitació:** rigidesa davant del món real i dificultat per gestionar la indeterminació o el context complex.
 
 ### Paradigma connexionista
-
-<figure markdown="span">
-  ![Xarxa de nodes interconnectats](img/connex_paradigma.png){ width="480" loading=lazy }
-</figure>
 
 - Capes de **nodes interconnectats** que detecten patrons complexos sense regles humanes prèvies.
 - El sistema millora amb l'experiència i l'ús massiu d'informació.
@@ -100,18 +90,10 @@ flowchart LR
 
 ### Paradigma generatiu
 
-<figure markdown="span">
-  ![Xarxes neuronals discriminatives i generatives](img/Discriminative_vs_Generative_Neural_Networks.png){ width="560" loading=lazy }
-</figure>
-
 - Processen i combinen de manera simultània veu, imatges i text.
 - Generen respostes fluides i naturals a partir de models predictius de llenguatge.
 
 ### Paradigma agèntic
-
-<figure markdown="span">
-  ![Agent d'IA](img/AI-AGENT.jpg){ width="560" loading=lazy }
-</figure>
 
 - L'agent defineix subtasques, utilitza eines i resol problemes de principi a fi.
 - Equips de diferents IA coordinades es reparteixen rols de treball sense intervenció humana constant.
@@ -119,14 +101,10 @@ flowchart LR
 ## Quines aplicacions té la IA?
 
 <figure markdown="span">
-  ![Aplicacions de la IA](img/giphy.gif){ width="360" loading=lazy }
+  ![Aplicacions de la IA](img/giphy.gif){ width="260" loading=lazy }
 </figure>
 
 ### Robòtica
-
-<figure markdown="span">
-  ![Mà robòtica](img/Shadow_Hand_Bulb_large.jpg){ width="480" loading=lazy }
-</figure>
 
 - La robòtica és una de les aplicacions més conegudes de la IA.
 - Un robot és un sistema capaç d'interactuar amb el seu entorn.
@@ -135,19 +113,11 @@ flowchart LR
 
 ### Processament del llenguatge natural
 
-<figure markdown="span">
-  ![GPT-4](img/GPT-4.jpg){ width="480" loading=lazy }
-</figure>
-
 - És la capacitat d'un ordinador per entendre el llenguatge humà.
 - Els humans utilitzem el llenguatge per comunicar-nos i per transmetre coneixement.
 - **Camps d'aplicació:** traducció automàtica, reconeixement de veu, resum de textos, *chatbots*, etc.
 
 ### Visió per computador
-
-<figure markdown="span">
-  ![Visió per computador](img/computer-vision.jpg){ width="480" loading=lazy }
-</figure>
 
 - És la capacitat d'un ordinador per entendre imatges.
 - Els humans utilitzem la visió per entendre el món que ens envolta: ens permet identificar objectes, persones, colors, etc.
