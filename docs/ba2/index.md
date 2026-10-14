@@ -1,5 +1,8 @@
 # BA2 · Serveis d'IA i RAG
 
+!!! warning "Atenció!"
+    Aquest apartat encara es troba en construcció.
+
 **RA3 + RA4 · 33 h · Pes: 50,0 %** · Setmanes 10–20 (16/11/2026 – 19/02/2027) · [Calendari](../modul/temporitzacio.md#calendari-setmanal)
 
 Explotació de serveis d'IA i arquitectura de dades.
