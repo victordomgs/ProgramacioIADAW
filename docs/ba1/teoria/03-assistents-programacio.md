@@ -1,7 +1,5 @@
 # 3. Assistents per a la programació
 
-<span class="etiqueta">RA1</span> Com ha evolucionat la manera d'interactuar amb la IA mentre programem i quines eines tenim avui a l'abast.
-
 ## L'evolució: com interactuem amb la IA?
 
 | Etapa | Forma d'interacció |
@@ -39,10 +37,6 @@ Afegeixen superpoders a les eines que ja coneixem (VS Code, PhpStorm, IntelliJ).
 
 </div>
 
-<figure markdown="span">
-  ![Principals assistents d'IA](img/topAIAssistants.jpg){ width="520" loading=lazy }
-</figure>
-
 ## IDE *AI-First*: una nova categoria
 
 *Forks* de VS Code redissenyats des de zero per integrar els models com a copilot actiu. Els exemples més coneguts són **Cursor** i **Windsurf**:
@@ -54,10 +48,6 @@ Afegeixen superpoders a les eines que ja coneixem (VS Code, PhpStorm, IntelliJ).
 ## Solucions *open source* i locals
 
 Què passa amb la privadesa, la propietat intel·lectual i el cost?
-
-<figure markdown="span">
-  ![Ollama](img/ollama.png){ width="420" loading=lazy }
-</figure>
 
 **Execució 100 % local (Ollama):** models especialitzats en codi (*Qwen2.5-Coder*, *DeepSeek-Coder*).
 
