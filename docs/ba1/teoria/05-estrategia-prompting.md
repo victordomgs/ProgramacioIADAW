@@ -1,7 +1,5 @@
 # 5. Estratègia de prompting
 
-<span class="etiqueta">RA2</span> Com dissenyar instruccions eficaces: el flux de treball iteratiu, els components d'una instrucció, una plantilla de referència i una llista de comprovació per detectar problemes.
-
 ## Introducció
 
 Encara que no hi ha una única manera de redactar instruccions, sí que existeixen estratègies habituals per condicionar i millorar les respostes del model. Tot i així, fer proves i avaluacions constants és clau per aconseguir el millor rendiment.
@@ -111,7 +109,7 @@ Re-emphasize the key aspects of the prompt, especially the constraints, output f
 Si una instrucció no funciona com s'espera, és molt probable que hi hagi un problema en com s'ha definit. La llista següent permet identificar possibles problemes i millorar-ne el rendiment.
 
 <figure markdown="span">
-  ![La IA llegint](img/AIreading.gif){ width="200" loading=lazy }
+  ![La IA llegint](img/AIreading.gif){ width="300" loading=lazy }
 </figure>
 
 ??? abstract "Problemes de redacció"
