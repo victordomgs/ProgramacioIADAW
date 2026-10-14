@@ -24,10 +24,6 @@
 
 ### Intel·ligència computacional
 
-<figure markdown="span">
-  ![Centre de processament de dades](img/cpd.jpeg){ width="320" loading=lazy }
-</figure>
-
 - La intel·ligència artificial intenta entendre i modelar la intel·ligència humana com un procés computacional.
 - Intentem modelar programes que s'aproximin al que definim com a intel·ligència, per tal de fer-nos la vida més fàcil.
 - La IA és part de la **ciència de la computació**.
