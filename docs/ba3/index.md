@@ -1,5 +1,8 @@
 # BA3 · Ètica i dades
 
+!!! warning "Atenció!"
+    Aquest apartat encara es troba en construcció.
+
 **RA5 · 6 h · Pes: 9,1 %** · Setmanes 21–22 (22/02/2027 – 05/03/2027) · [Calendari](../modul/temporitzacio.md#calendari-setmanal)
 
 Ètica sobre l'ús de la IA i tractament de dades.
