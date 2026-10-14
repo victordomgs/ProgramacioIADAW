@@ -320,4 +320,4 @@ Si tot és correcte, l'agent executarà una ordre com `df -h`, i en retornarà u
 
 ---
 
-**Activitats relacionades:** [AEA3 · Desplegament d'OpenClaw](../aea03-desplegament-openclaw/index.md) · [AEA4 · Agent camp OpenClaw](../aea04-agent-openclaw/index.md)
+**Activitats relacionades:** [AEA3 · Desplegament d'OpenClaw](../aea03-desplegament-openclaw/index.md) / [AEA4 · Agent camp OpenClaw](../aea04-agent-openclaw/index.md)
