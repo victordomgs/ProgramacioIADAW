@@ -8,7 +8,7 @@
 | **Resultats d'aprenentatge** | [RA1](../../modul/resultats-aprenentatge.md#ra1), [RA2](../../modul/resultats-aprenentatge.md#ra2) |
 | **Criteris d'avaluació** | 1.2, 1.3, 2.1 |
 | **Instruments d'avaluació** | Examen |
-| **Teoria relacionada** | [4. Introducció a l'enginyeria de peticions](https://victordomgs.github.io/m0617_ra2/notes/4.%20Introducci%C3%B3%20a%20l'enginyeria%20de%20peticions.html){ target=_blank } · [5. Estratègia de prompting](https://victordomgs.github.io/m0617_ra2/notes/5.%20Estrat%C3%A8gia%20de%20prompting.html){ target=_blank } |
+| **Teoria relacionada** | [4. Introducció a l'enginyeria de peticions](../teoria/04-enginyeria-peticions.md) · [5. Estratègia de prompting](../teoria/05-estrategia-prompting.md) |
 
 </div>
 
@@ -21,7 +21,7 @@
 
 ## Enunciat
 
-Aquesta és la primera activitat de *prompting* del BA1. Analitzarem com responen els models més típics a tasques comunes en la gestió i administració de sistemes i xarxes, i treballarem el contingut de les dues primeres presentacions:
+Aquesta és la primera activitat de *prompting* del BA1. Analitzarem com responen els models més típics a tasques comunes en la gestió i administració de sistemes i xarxes, i treballarem el contingut de les dos primers temes de teoria del RA2:
 
-- [Introducció a l'enginyeria de prompts](https://victordomgs.github.io/m0617_ra2/notes/4.%20Introducci%C3%B3%20a%20l'enginyeria%20de%20peticions.html){ target=_blank }
-- [Estratègia de prompting](https://victordomgs.github.io/m0617_ra2/notes/5.%20Estrat%C3%A8gia%20de%20prompting.html){ target=_blank }
+- [Introducció a l'enginyeria de prompts](../teoria/04-enginyeria-peticions.md)
+- [Estratègia de prompting](../teoria/05-estrategia-prompting.md)

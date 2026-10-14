@@ -9,7 +9,7 @@
 | **Criteris d'avaluació** | 1.2, 1.3, 1.4, 2.1 |
 | **Instruments d'avaluació** | Examen |
 | **Modalitat** | En parelles |
-| **Teoria relacionada** | [2. IA a l'ecosistema web](../teoria/presentacions/02-ia-ecosistema-web.html){ target=_blank } |
+| **Teoria relacionada** | [2. IA a l'ecosistema web](../teoria/02-ia-ecosistema-web.md) |
 
 </div>
 

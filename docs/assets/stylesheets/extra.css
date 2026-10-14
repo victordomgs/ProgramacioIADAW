@@ -20,9 +20,8 @@
   color: var(--md-default-fg-color);
 }
 
-/* Els prompts (blocs de text i XML) s'ajusten a l'amplada en lloc de fer scroll */
-.md-typeset .language-text pre > code,
-.md-typeset .language-xml pre > code {
+/* Els blocs de codi i prompts s'ajusten a l'amplada en lloc de fer scroll */
+.md-typeset pre > code {
   white-space: pre-wrap;
   overflow-wrap: anywhere;
 }

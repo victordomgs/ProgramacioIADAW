@@ -1,9 +1,6 @@
 # Teoria del BA1
 
-Presentacions de teoria del bloc d'avaluació 1. Cada presentació s'obre a pantalla completa en una pestanya nova.
-
-!!! tip "Navegació per les diapositives"
-    Feu servir les fletxes del teclat (← →) per avançar i retrocedir. Amb la tecla **O** veureu la vista general de totes les diapositives i amb **P** la vista de presentador.
+Continguts teòrics del bloc d'avaluació 1, organitzats per temes.
 
 ## RA1 · Models d'intel·ligència artificial
 
@@ -14,21 +11,21 @@ Presentacions de teoria del bloc d'avaluació 1. Cada presentació s'obre a pant
     ---
     Intel·ligència humana i computacional, racionalitat, paradigmes de la IA (simbòlic, connexionista, generatiu i agèntic) i camps d'aplicació: robòtica, processament de llenguatge natural i visió per computador.
 
-    [:octicons-play-24: Obre la presentació](presentacions/01-fonaments-ia.html){ .md-button target=_blank }
+    [:octicons-book-24: Llegeix la teoria](01-fonaments-ia.md){ .md-button }
 
 -   :material-web: **2. IA a l'ecosistema web**
 
     ---
     El canvi de paradigma al desenvolupament web, arquitectura d'integració de la IA a la web i camps d'aplicació: *e-commerce* i *retail*, seguretat i moderació, assistència i CRM.
 
-    [:octicons-play-24: Obre la presentació](presentacions/02-ia-ecosistema-web.html){ .md-button target=_blank }
+    [:octicons-book-24: Llegeix la teoria](02-ia-ecosistema-web.md){ .md-button }
 
 -   :material-code-braces: **3. Assistents per a la programació**
 
     ---
     Evolució de la interacció amb la IA, classificació de les eines actuals, extensions per a IDE clàssics, IDE *AI-First* i solucions *open source* i locals.
 
-    [:octicons-play-24: Obre la presentació](presentacions/03-assistents-programacio.html){ .md-button target=_blank }
+    [:octicons-book-24: Llegeix la teoria](03-assistents-programacio.md){ .md-button }
 
 </div>
 
@@ -41,13 +38,31 @@ Presentacions de teoria del bloc d'avaluació 1. Cada presentació s'obre a pant
     ---
     Introducció a la nova disciplina que s'encarrega de l'optimització de peticions sobre models LLM.
 
-    [:octicons-play-24: Obre la presentació](https://victordomgs.github.io/m0617_ra2/notes/4.%20Introducci%C3%B3%20a%20l'enginyeria%20de%20peticions.html){ .md-button target=_blank }
+    [:octicons-book-24: Llegeix la teoria](04-enginyeria-peticions.md){ .md-button }
 
 -   :material-strategy: **5. Estratègia de prompting**
 
     ---
-    Flux de treball de l'enginyeria d'instruccions, components d'una instrucció, técnica few-shot, chain-of-thought i problemes en la redacció de prompts.
-    
-    [:octicons-play-24: Obre la presentació](https://victordomgs.github.io/m0617_ra2/notes/5.%20Estrat%C3%A8gia%20de%20prompting.html){ .md-button target=_blank }
+    Flux de treball de l'enginyeria d'instruccions, components d'una instrucció, tècnica *few-shot*, *chain-of-thought* i problemes en la redacció de prompts.
+
+    [:octicons-book-24: Llegeix la teoria](05-estrategia-prompting.md){ .md-button }
+
+-   :material-robot-industrial-outline: **6. Orquestració d'agents amb OpenClaw**
+
+    ---
+    Què és OpenClaw, l'arquitectura del Gateway i la instal·lació i configuració d'un agent en un sistema Ubuntu.
+
+    [:octicons-book-24: Llegeix la teoria](06-openclaw.md){ .md-button }
 
 </div>
+
+## Relació amb les activitats
+
+| Tema | Activitats relacionades |
+|------|-------------------------|
+| [1. Fonaments de la IA i evolució](01-fonaments-ia.md) | [AEA0 · Què sabem sobre la IA?](../aea00-inici/index.md#diagnostic) |
+| [2. IA a l'ecosistema web](02-ia-ecosistema-web.md) | [AEA2 · Modernització d'un SaaS](../aea02-modernitzacio-saas/index.md) |
+| [3. Assistents per a la programació](03-assistents-programacio.md) | [AEA1 · Prompt engineering](../aea01-prompt-engineering/index.md) |
+| [4. Introducció a l'enginyeria de peticions](04-enginyeria-peticions.md) | [AEA1 · Prompt engineering](../aea01-prompt-engineering/index.md) |
+| [5. Estratègia de prompting](05-estrategia-prompting.md) | [AEA1 · Prompt engineering](../aea01-prompt-engineering/index.md) |
+| [6. Orquestració d'agents amb OpenClaw](06-openclaw.md) | [AEA3 · Desplegament d'OpenClaw](../aea03-desplegament-openclaw/index.md), [AEA4 · Agent camp OpenClaw](../aea04-agent-openclaw/index.md) |

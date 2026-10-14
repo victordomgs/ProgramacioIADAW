@@ -9,13 +9,14 @@
 
 ## Teoria
 
-Les presentacions del bloc es troben a la pàgina de [Teoria](teoria/index.md):
+Els temes de teoria del bloc es troben a la pàgina de [Teoria](teoria/index.md):
 
-1. [Fonaments de la IA i evolució](teoria/presentacions/01-fonaments-ia.html){ target=_blank }
-2. [IA a l'ecosistema web](teoria/presentacions/02-ia-ecosistema-web.html){ target=_blank }
-3. [Assistents per a la programació](teoria/presentacions/03-assistents-programacio.html){ target=_blank }
-4. [Introducció a l'enginyeria de peticions](https://victordomgs.github.io/m0617_ra2/notes/4.%20Introducci%C3%B3%20a%20l'enginyeria%20de%20peticions.html){ target=_blank }
-5. [Estratègia de prompting](https://victordomgs.github.io/m0617_ra2/notes/5.%20Estrat%C3%A8gia%20de%20prompting.html){ target=_blank }
+1. [Fonaments de la IA i evolució](teoria/01-fonaments-ia.md)
+2. [IA a l'ecosistema web](teoria/02-ia-ecosistema-web.md)
+3. [Assistents per a la programació](teoria/03-assistents-programacio.md)
+4. [Introducció a l'enginyeria de peticions](teoria/04-enginyeria-peticions.md)
+5. [Estratègia de prompting](teoria/05-estrategia-prompting.md)
+6. [Orquestració d'agents amb OpenClaw](teoria/06-openclaw.md)
 
 ## Activitats
 
