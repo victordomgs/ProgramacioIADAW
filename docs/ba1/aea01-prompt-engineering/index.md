@@ -2,13 +2,9 @@
 
 <div class="fitxa-aea" markdown>
     
-|||
-|---|---|
-| **Durada** | 3 h aprox. |
-| **Resultats d'aprenentatge** | [RA1](../../modul/resultats-aprenentatge.md#ra1), [RA2](../../modul/resultats-aprenentatge.md#ra2) |
-| **Criteris d'avaluació** | 1.2, 1.3, 2.1 |
-| **Instruments d'avaluació** | Examen |
-| **Teoria relacionada** | [4. Introducció a l'enginyeria de peticions](../teoria/04-enginyeria-peticions.md) · [5. Estratègia de prompting](../teoria/05-estrategia-prompting.md) |
+| Durada | RA / CA | Instruments d'avaluació |
+|---|---|---|
+| 3 h aprox. | RA1, RA2 / 1.2, 1.3, 2.1 | Examen |
 
 </div>
 
@@ -18,10 +14,3 @@
 
 !!! note "Com lliurar les respostes"
     Les captures, els *prompts* que escriguis i les respostes a les preguntes s'han d'afegir als requadres del **document de l'activitat (.docx)**.
-
-## Enunciat
-
-Aquesta és la primera activitat de *prompting* del BA1. Analitzarem com responen els models més típics a tasques comunes en la gestió i administració de sistemes i xarxes, i treballarem el contingut de les dos primers temes de teoria del RA2:
-
-- [Introducció a l'enginyeria de prompts](../teoria/04-enginyeria-peticions.md)
-- [Estratègia de prompting](../teoria/05-estrategia-prompting.md)
