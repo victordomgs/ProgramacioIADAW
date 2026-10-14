@@ -1,7 +1,5 @@
 # 2. IA a l'ecosistema web
 
-<span class="etiqueta">RA1</span> Com canvia el desenvolupament web quan hi integrem la IA, on se situa dins l'arquitectura d'una aplicació i quins són els seus principals camps d'aplicació.
-
 ## El canvi de paradigma al desenvolupament web
 
 Les solucions clàssiques es basen en coincidències exactes i regles fixes, i fallen quan l'usuari s'expressa de manera natural:
@@ -40,17 +38,9 @@ sequenceDiagram
     S-->>C: Resposta processada
 ```
 
-<figure markdown="span">
-  ![Interacció amb la IA a una aplicació web](img/AIinteraction.jpg){ width="600" loading=lazy }
-</figure>
-
 ## Camps d'aplicació
 
 ### E-commerce i retail
-
-<figure markdown="span">
-  ![E-commerce](img/eccomerce.png){ width="360" loading=lazy }
-</figure>
 
 La IA aplicada a l'experiència d'usuari i la conversió:
 
@@ -60,10 +50,6 @@ La IA aplicada a l'experiència d'usuari i la conversió:
 
 ### Seguretat i moderació
 
-<figure markdown="span">
-  ![Seguretat web](img/secureweb.jpg){ width="480" loading=lazy }
-</figure>
-
 Protecció de plataformes i gestió d'usuaris a escala:
 
 - Moderació de continguts en temps real.
@@ -71,10 +57,6 @@ Protecció de plataformes i gestió d'usuaris a escala:
 - *Fintech* i pagaments.
 
 ### Assistència i CRM
-
-<figure markdown="span">
-  ![CRM](img/crm.jpg){ width="480" loading=lazy }
-</figure>
 
 Canvi radical en el model de suport tècnic web:
 
