@@ -12,6 +12,7 @@
 Els temes de teoria del bloc es troben a la pàgina de [Teoria](teoria/index.md):
 
 1. [Fonaments de la IA i evolució](teoria/01-fonaments-ia.md)
+2. [IA a l'ecosistema web](teoria/02-ia-ecosistema-web.md)
 3. [Assistents per a la programació](teoria/03-assistents-programacio.md)
 4. [Introducció a l'enginyeria de peticions](teoria/04-enginyeria-peticions.md)
 5. [Estratègia de prompting](teoria/05-estrategia-prompting.md)
