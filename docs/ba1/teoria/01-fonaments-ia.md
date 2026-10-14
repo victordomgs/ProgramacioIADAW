@@ -8,7 +8,10 @@
 | **Intel·ligència artificial** | La intel·ligència exhibida per màquines. |
 | **Màquina intel·ligent** | Un sistema que pot percebre el seu entorn i prendre accions que maximitzen les seves possibilitats d'èxit en un objectiu. |
 
-![Tenim ja una màquina intel·ligent?](img/timboulder-bender.gif){ width="360" loading=lazy }
+<figure markdown="span">
+  ![Bender, el robot de Futurama](img/timboulder-bender.gif){ width="320" loading=lazy }
+  <figcaption>Tenim ja una màquina intel·ligent?</figcaption>
+</figure>
 
 ## Intel·ligència humana i intel·ligència computacional
 
