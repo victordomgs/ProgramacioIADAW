@@ -17,6 +17,7 @@ Els temes de teoria del bloc es troben a la pàgina de [Teoria](teoria/index.md)
 4. [Introducció a l'enginyeria de peticions](teoria/04-enginyeria-peticions.md)
 5. [Estratègia de prompting](teoria/05-estrategia-prompting.md)
 6. [Orquestració d'agents amb OpenClaw](teoria/06-openclaw.md)
+7. [GitHub Copilot: fonaments i ús](teoria/07-copilot-fonaments.md)
 
 ## Activitats
 

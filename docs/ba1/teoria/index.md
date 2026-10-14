@@ -54,6 +54,13 @@ Continguts teòrics del bloc d'avaluació 1, organitzats per temes.
 
     [:octicons-book-24: Llegeix la teoria](06-openclaw.md){ .md-button }
 
+-   :simple-githubcopilot: **7. GitHub Copilot: fonaments i ús**
+
+    ---
+    Què és Copilot i quins límits té, posada en marxa a VS Code, modes d'interacció (suggeriments, xat en línia, Ask, Plan i Agent) i gestió del context.
+
+    [:octicons-book-24: Llegeix la teoria](07-copilot-fonaments.md){ .md-button }
+
 </div>
 
 ## Relació amb les activitats
@@ -66,3 +73,4 @@ Continguts teòrics del bloc d'avaluació 1, organitzats per temes.
 | [4. Introducció a l'enginyeria de peticions](04-enginyeria-peticions.md) | [AEA1 · Prompt engineering](../aea01-prompt-engineering/index.md) |
 | [5. Estratègia de prompting](05-estrategia-prompting.md) | [AEA1 · Prompt engineering](../aea01-prompt-engineering/index.md) |
 | [6. Orquestració d'agents amb OpenClaw](06-openclaw.md) | [AEA3 · Desplegament d'OpenClaw](../aea03-desplegament-openclaw/index.md), [AEA4 · Agent camp OpenClaw](../aea04-agent-openclaw/index.md) |
+| [7. GitHub Copilot: fonaments i ús](07-copilot-fonaments.md) | [AEA2 · Modernització d'un SaaS](../aea02-modernitzacio-saas/index.md) |

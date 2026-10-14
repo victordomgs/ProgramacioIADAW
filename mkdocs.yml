@@ -98,6 +98,7 @@ nav:
           - "4. Enginyeria de peticions": ba1/teoria/04-enginyeria-peticions.md
           - "5. Estratègia de prompting": ba1/teoria/05-estrategia-prompting.md
           - "6. Orquestració amb OpenClaw": ba1/teoria/06-openclaw.md
+          - "7. GitHub Copilot: fonaments i ús": ba1/teoria/07-copilot-fonaments.md
       - "AEA0 · Presentació i diagnòstic": ba1/aea00-inici/index.md
       - "AEA1 · Prompt engineering": ba1/aea01-prompt-engineering/index.md
       - "AEA2 · Modernització d'un SaaS": ba1/aea02-modernitzacio-saas/index.md
