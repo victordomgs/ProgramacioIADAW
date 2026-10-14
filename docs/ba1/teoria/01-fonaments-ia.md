@@ -43,14 +43,14 @@
 
 === "IA feble"
 
-    Feta per a **una sola cosa**. Funciona molt bé en el seu camp, però no té consciència ni ment pròpia.
+    Feta per a **una sola cosa**. La IA feble s'utilitza comunament en la indústria per millorar l'eficiència i la precisió dels processos. Està dissenyada per fer una sola o un conjunt molt limitat de tasques relacionades amb un alt nivell de competència. La seva funció és estar preparada per actuar en un sol rol, garantint que exerceixi plenament el seu paper.
 
     !!! example "Exemples"
         Assistents de veu (Siri, Alexa), filtres de correu brossa i cotxes autònoms.
 
 === "IA forta"
 
-    Buscaria **imitar completament la ment humana**. Podria aprendre i resoldre qualsevol problema nou i tindria capacitat d'adaptació i pensament propi.
+    Buscaria **imitar completament la ment humana**. Podria aprendre i resoldre qualsevol problema nou i tindria capacitat d'adaptació i pensament propi. És un dels objectius principals de la recerca en intel·ligència artificial. La ciència-ficció associa la IA forta amb trets humans com la consciència i la sensibilitat. No s'ha de confondre amb la Intel·ligència Artificial Generativa.
 
     !!! note
         Actualment és només un objectiu teòric.
