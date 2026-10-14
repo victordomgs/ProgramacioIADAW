@@ -57,7 +57,3 @@ Què passa amb la privadesa, la propietat intel·lectual i el cost?
 
 !!! info
     L'execució de models en local es treballarà al [BA2](../../ba2/index.md).
-
----
-
-**Activitat relacionada:** [AEA1 · Pràctica de prompting](../aea01-prompt-engineering/index.md)
