@@ -109,7 +109,7 @@ Re-emphasize the key aspects of the prompt, especially the constraints, output f
 Si una instrucció no funciona com s'espera, és molt probable que hi hagi un problema en com s'ha definit. La llista següent permet identificar possibles problemes i millorar-ne el rendiment.
 
 <figure markdown="span">
-  ![La IA llegint](img/AIreading.gif){ width="300" loading=lazy }
+  ![La IA llegint](img/AIreading.gif){ width="270" loading=lazy }
 </figure>
 
 ??? abstract "Problemes de redacció"
