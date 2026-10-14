@@ -25,7 +25,7 @@
 ### Intel·ligència computacional
 
 <figure markdown="span">
-  ![Centre de processament de dades](img/cpd.jpeg){ width="460" loading=lazy }
+  ![Centre de processament de dades](img/cpd.jpeg){ width="320" loading=lazy }
 </figure>
 
 - La intel·ligència artificial intenta entendre i modelar la intel·ligència humana com un procés computacional.
