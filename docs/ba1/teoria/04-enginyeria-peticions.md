@@ -1,7 +1,5 @@
 # 4. Introducció a l'enginyeria de peticions
 
-<span class="etiqueta">RA2</span> Què és el *prompt engineering* i quins components forma una instrucció: tasca, instruccions del sistema, exemples i informació contextual.
-
 ## Què és el *prompt engineering*?
 
 El **prompt engineering** (o enginyeria d'instruccions) és la disciplina de dissenyar i optimitzar les peticions que es fan als models d'IA —especialment els **LLM**— per obtenir les respostes desitjades. Consisteix a formular aquestes entrades amb precisió, aportant el context, les pautes i els exemples necessaris perquè el model entengui la intenció de l'usuari i respongui de manera rellevant i útil.
