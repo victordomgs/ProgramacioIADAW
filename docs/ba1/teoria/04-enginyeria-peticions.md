@@ -74,10 +74,6 @@ Now, if you'll excuse me, I must away! There's a ship on the horizon, and it loo
 
 Els **exemples breus o de referència (*few-shot*)** s'inclouen a la instrucció per mostrar al model com ha de ser una resposta correcta. Són especialment útils per definir-ne l'estil i el to, així com per ajustar el comportament general del model.
 
-<figure markdown="span">
-  ![Exemples](img/example.jpg){ width="320" loading=lazy }
-</figure>
-
 ```text title="Prompt"
 Classify the following as red wine or white wine:
 <examples>
