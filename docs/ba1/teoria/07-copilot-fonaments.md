@@ -1,6 +1,6 @@
 # 7. GitHub Copilot: fonaments i ús
 
-## 7.1 Què és GitHub Copilot
+## Què és GitHub Copilot
 
 GitHub Copilot és un **assistent de programació basat en models de llenguatge grans (LLM)**. No "entén" el codi com una persona: a partir del context que li arriba (el fitxer on treballes, altres fitxers oberts, el que li escrius al xat...) **prediu quin és el text més probable** que ve a continuació.
 
@@ -47,7 +47,7 @@ Les idees que aprendràs aquí (context, modes, prompting, verificació) són tr
 
 ---
 
-## 7.2 Posada en marxa
+## Posada en marxa
 
 ### Plans d'accés
 
@@ -81,7 +81,7 @@ Per tant:
 
 ---
 
-## 7.3 Modes d'interacció
+## Modes d'interacció
 
 ### 1. Suggeriments mentre escrius (*completions*)
 
@@ -128,7 +128,7 @@ El mode Agent és potent, però **no treballa sol**:
 
 ---
 
-## 7.4 Gestió del context
+## Gestió del context
 
 El context és tot allò que Copilot "veu" quan genera una resposta. Controlar-lo és l'habilitat més important per treballar bé amb qualsevol assistent.
 
