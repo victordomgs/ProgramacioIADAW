@@ -11,7 +11,7 @@ flowchart LR
     A[El que escrius] --> B[Context que recull] --> C[Model LLM] --> D[Suggeriment]
 ```
 
-!!! Conseqüència important
+!!! Important
     **La qualitat del resultat depèn sobretot de la qualitat del context**. Si el context és pobre o confús, la predicció també ho serà.
 
 ### Diferència amb l'autocompletat clàssic
