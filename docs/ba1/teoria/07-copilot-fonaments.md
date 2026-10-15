@@ -42,7 +42,7 @@ Conseqüència important: **la qualitat del resultat depèn sobretot de la quali
 
 ### Altres eines semblants
 
-Copilot no és l'única opció: **Cursor**, **Windsurf**, **Claude Code** o **Continue** (amb models locals via Ollama) en són alternatives. Les vam classificar al [tema 3. Assistents per a la programació](03-assistents-programacio.md).
+Copilot no és l'única opció: **Cursor**, **Windsurf**, **Claude Code** o **Continue** (amb models locals via Ollama) en són alternatives. Les vam classificar al [3. Assistents per a la programació](03-assistents-programacio.md).
 
 Les idees que aprendràs aquí (context, modes, prompting, verificació) són transferibles a totes aquestes eines.
 
