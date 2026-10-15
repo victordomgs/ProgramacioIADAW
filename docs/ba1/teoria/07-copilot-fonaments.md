@@ -172,42 +172,6 @@ Els models només poden processar una quantitat limitada de text. Si una convers
 
 ---
 
-## Exemple guiat
-
-Sobre el projecte de botiga en línia de classe:
-
-1. Obre `products.js` i escriu només aquest comentari i la signatura:
-   ```js
-   // Retorna els productes filtrats per categoria i ordenats per preu ascendent.
-   // Si la categoria és buida, retorna tots els productes.
-   function filterProducts(products, category) {
-   ```
-   Observa el suggeriment i **llegeix-lo abans d'acceptar-lo**. Contempla el cas de la categoria buida?
-2. Selecciona la funció, prem `Ctrl` + `I` i demana: *"Fes que no modifiqui l'array original."* Revisa el diff.
-3. Obre el xat en mode **Ask** i pregunta: *"Quins casos límit no contempla `#selection`?"*
-4. Compara la teva valoració amb la de Copilot.
-
----
-
-## :material-pencil: Prova-ho (15 min)
-
-1. Demana la mateixa funció en mode **Ask**, **Plan** i **Agent**. Anota en una taula quines diferències observes en el procés i en el resultat.
-2. Fes la mateixa pregunta amb context pobre i amb context ric (`#file`, codi seleccionat, error complet). Compara les respostes.
-3. Busca un suggeriment de Copilot que sigui incorrecte o inventi alguna cosa. Explica per què és erroni.
-
----
-
-## :material-alert-outline: Errors habituals
-
-- Acceptar suggeriments amb `Tab` sense llegir-los.
-- Fer servir el mode Agent per a tot, fins i tot per a preguntes senzilles.
-- Aprovar ordres de terminal de l'agent sense mirar què fan.
-- Mantenir una sola conversació llarguíssima amb temes barrejats.
-- Tenir oberts fitxers amb secrets mentre es treballa amb l'assistent.
-- Treballar amb l'agent sense haver fet commit abans.
-
----
-
 ## Per saber-ne més
 
 - [Documentació oficial de GitHub Copilot](https://docs.github.com/copilot)
