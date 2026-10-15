@@ -1,7 +1,5 @@
 # 8. Prompting i flux de treball amb Copilot
 
-Al [tema 5](05-estrategia-prompting.md) vam veure els components d'una bona instrucció (objectiu, context, restriccions, format, exemples...). En aquest tema els aplicarem a la programació amb GitHub Copilot. També veurem com fixar aquestes instruccions al projecte perquè no calgui repetir-les a cada conversa.
-
 ## Prompting per a codi
 
 ### Estructura d'un bon prompt de codi
