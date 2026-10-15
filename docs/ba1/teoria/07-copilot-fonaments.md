@@ -1,16 +1,5 @@
 # 7. GitHub Copilot: fonaments i ús
 
-## Objectius
-
-En acabar aquest punt hauràs de ser capaç de:
-
-- Explicar què és GitHub Copilot, com funciona per dins i quins límits té.
-- Instal·lar i configurar Copilot a Visual Studio Code de manera segura.
-- Diferenciar els modes d'interacció (suggeriments, xat en línia, Ask, Plan i Agent) i triar el més adequat per a cada tasca.
-- Controlar el context que reben els models per obtenir respostes més precises.
-
----
-
 ## 7.1 Què és GitHub Copilot
 
 GitHub Copilot és un **assistent de programació basat en models de llenguatge grans (LLM)**. No "entén" el codi com una persona: a partir del context que li arriba (el fitxer on treballes, altres fitxers oberts, el que li escrius al xat...) **prediu quin és el text més probable** que ve a continuació.
