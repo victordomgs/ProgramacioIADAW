@@ -1,8 +1,5 @@
 # 7. GitHub Copilot: fonaments i ús
 
-!!! info "Fitxa del tema"
-    **Bloc d'avaluació:** BA1 (RA1 + RA2) · **Criteris d'avaluació:** 1.3, 2.1 · **Durada orientativa:** 2 h
-
 ## Objectius
 
 En acabar aquest punt hauràs de ser capaç de:
