@@ -11,13 +11,14 @@ flowchart LR
     A[El que escrius] --> B[Context que recull] --> C[Model LLM] --> D[Suggeriment]
 ```
 
-Conseqüència important: **la qualitat del resultat depèn sobretot de la qualitat del context**. Si el context és pobre o confús, la predicció també ho serà.
+!!! Conseqüència important
+    **La qualitat del resultat depèn sobretot de la qualitat del context**. Si el context és pobre o confús, la predicció també ho serà.
 
 ### Diferència amb l'autocompletat clàssic
 
 | Autocompletat clàssic (IntelliSense) | GitHub Copilot |
 |---|---|
-| Es basa en l'anàlisi estàtica del codi (tipus, mètodes que existeixen). | Es basa en probabilitats apreses d'enormes quantitats de codi. |
+| Es basa en l'anàlisi estàtic del codi (tipus, mètodes que existeixen). | Es basa en probabilitats apreses d'enormes quantitats de codi. |
 | Suggereix un nom de mètode o variable. | Pot suggerir línies, funcions o fitxers sencers. |
 | El que proposa existeix segur. | El que proposa **pot no existir** (una API, una llibreria, un paràmetre inventat). |
 | Determinista. | No determinista: la mateixa petició pot donar respostes diferents. |
