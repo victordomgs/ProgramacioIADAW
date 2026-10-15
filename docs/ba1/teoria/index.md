@@ -61,6 +61,13 @@ Continguts teòrics del bloc d'avaluació 1, organitzats per temes.
 
     [:octicons-book-24: Llegeix la teoria](07-copilot-fonaments.md){ .md-button }
 
+-   :material-source-branch: **8. Prompting i flux de treball amb Copilot**
+
+    ---
+    Prompts eficaços per a codi, personalització amb fitxers d'instruccions, *prompt files* i agents, flux de treball (generar, depurar, refactoritzar, provar i documentar) i ampliació de l'agent amb MCP.
+
+    [:octicons-book-24: Llegeix la teoria](08-copilot-prompting-flux.md){ .md-button }
+
 </div>
 
 ## Relació amb les activitats
@@ -74,3 +81,4 @@ Continguts teòrics del bloc d'avaluació 1, organitzats per temes.
 | [5. Estratègia de prompting](05-estrategia-prompting.md) | [AEA1 · Prompt engineering](../aea01-prompt-engineering/index.md) |
 | [6. Orquestració d'agents amb OpenClaw](06-openclaw.md) | [AEA3 · Desplegament d'OpenClaw](../aea03-desplegament-openclaw/index.md), [AEA4 · Agent camp OpenClaw](../aea04-agent-openclaw/index.md) |
 | [7. GitHub Copilot: fonaments i ús](07-copilot-fonaments.md) | [AEA2 · Modernització d'un SaaS](../aea02-modernitzacio-saas/index.md) |
+| [8. Prompting i flux de treball amb Copilot](08-copilot-prompting-flux.md) | [AEA2 · Modernització d'un SaaS](../aea02-modernitzacio-saas/index.md) |
