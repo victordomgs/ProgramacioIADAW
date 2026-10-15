@@ -24,6 +24,7 @@
 | BA1 | [AEA2 · Modernització d'un SaaS](../ba1/aea02-modernitzacio-saas/index.md) | 2 h | RA1, RA2 | 1.2, 1.3, 1.4, 2.1 | Examen |
 | BA1 | [AEA3 · Desplegament d'OpenClaw](../ba1/aea03-desplegament-openclaw/index.md) | 2 h | RA1, RA2 | 1.1, 1.2, 1.3, 1.4, 2.1, 2.4 | Examen |
 | BA1 | [AEA4 · Agent camp OpenClaw](../ba1/aea04-agent-openclaw/index.md) | 3 h | RA1, RA2 | 1.1, 1.2, 1.3, 1.4, 2.1, 2.4 | Examen i pràctica avaluable |
+| BA1 | [AEA5 · Programació assistida amb Copilot](../ba1/aea05-copilot/index.md) | 6 h | RA1, RA2 | 1.3, 2.1, 2.2, 2.3, 2.4 | Pràctica avaluable |
 | BA2 | *Pendent de definir* | — | RA3, RA4 | — | — |
 | BA3 | *Pendent de definir* | — | RA5 | — | — |
 

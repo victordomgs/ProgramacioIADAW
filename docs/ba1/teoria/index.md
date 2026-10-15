@@ -87,6 +87,6 @@ Continguts teòrics del bloc d'avaluació 1, organitzats per temes.
 | [4. Introducció a l'enginyeria de peticions](04-enginyeria-peticions.md) | [AEA1 · Prompt engineering](../aea01-prompt-engineering/index.md) |
 | [5. Estratègia de prompting](05-estrategia-prompting.md) | [AEA1 · Prompt engineering](../aea01-prompt-engineering/index.md) |
 | [6. Orquestració d'agents amb OpenClaw](06-openclaw.md) | [AEA3 · Desplegament d'OpenClaw](../aea03-desplegament-openclaw/index.md), [AEA4 · Agent camp OpenClaw](../aea04-agent-openclaw/index.md) |
-| [7. GitHub Copilot: fonaments i ús](07-copilot-fonaments.md) | [AEA2 · Modernització d'un SaaS](../aea02-modernitzacio-saas/index.md) |
-| [8. Prompting i flux de treball amb Copilot](08-copilot-prompting-flux.md) | [AEA2 · Modernització d'un SaaS](../aea02-modernitzacio-saas/index.md) |
-| [9. Verificació, seguretat i ús responsable](09-copilot-verificacio-seguretat.md) | [AEA2 · Modernització d'un SaaS](../aea02-modernitzacio-saas/index.md) |
+| [7. GitHub Copilot: fonaments i ús](07-copilot-fonaments.md) | [AEA5 · Programació assistida amb Copilot](../aea05-copilot/index.md) |
+| [8. Prompting i flux de treball amb Copilot](08-copilot-prompting-flux.md) | [AEA5 · Programació assistida amb Copilot](../aea05-copilot/index.md) |
+| [9. Verificació, seguretat i ús responsable](09-copilot-verificacio-seguretat.md) | [AEA5 · Programació assistida amb Copilot](../aea05-copilot/index.md) |
