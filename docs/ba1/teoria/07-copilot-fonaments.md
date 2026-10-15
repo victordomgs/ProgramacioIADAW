@@ -17,15 +17,6 @@ GitHub Copilot és un **assistent de programació basat en models de llenguatge 
 
 ### Com genera un suggeriment
 
-```
- El que escrius        Context que recull        Model (LLM)          Suggeriment
- ┌──────────────┐     ┌──────────────────┐     ┌─────────────┐     ┌──────────────┐
- │ codi, comen- │ ──► │ fitxer actual,   │ ──► │ prediu els  │ ──► │ codi gris a  │
- │ taris, xat   │     │ fitxers oberts,  │     │ tokens més  │     │ l'editor o   │
- │              │     │ instruccions...  │     │ probables   │     │ resposta xat │
- └──────────────┘     └──────────────────┘     └─────────────┘     └──────────────┘
-```
-
 ```mermaid
 flowchart LR
     A[El que escrius] --> B[Context que recull] --> C[Model LLM] --> D[Suggeriment]
