@@ -41,7 +41,7 @@ Les idees que aprendràs aquí (context, modes, prompting, verificació) són tr
 - **Al·lucinacions:** pot inventar funcions, paràmetres o paquets que no existeixen.
 - **Codi plausible però incorrecte:** compila i "sembla" bé, però té errors de lògica o casos límit no contemplats.
 - **Coneixement desactualitzat:** el model pot proposar sintaxi antiga o APIs obsoletes.
-- **Seguretat:** pot reproduir patrons vulnerables (consultes SQL concatenades, falta de validació...). Ho treballarem al punt 9.
+- **Seguretat:** pot reproduir patrons vulnerables (consultes SQL concatenades, falta de validació...).
 
 !!! warning "Regla d'or"
     El codi que acceptes és teu. Tu n'ets el responsable, l'hagi escrit qui l'hagi escrit.
