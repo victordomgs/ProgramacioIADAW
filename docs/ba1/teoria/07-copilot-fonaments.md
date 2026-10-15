@@ -28,7 +28,7 @@ GitHub Copilot és un **assistent de programació basat en models de llenguatge 
 
 ```mermaid
 flowchart LR
-    A[El que escrius] --> B[Context que recull] --> C[Model LLM] --> D[Sugeriment]
+    A[El que escrius] --> B[Context que recull] --> C[Model LLM] --> D[Suggeriment]
 ```
 
 Conseqüència important: **la qualitat del resultat depèn sobretot de la qualitat del context**. Si el context és pobre o confús, la predicció també ho serà.
