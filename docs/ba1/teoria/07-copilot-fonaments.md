@@ -138,7 +138,7 @@ El context és tot allò que Copilot "veu" quan genera una resposta. Controlar-l
 - El fitxer on tens el cursor i el codi seleccionat.
 - Altres fitxers oberts a l'editor (per als suggeriments).
 - L'historial de la conversació actual (per al xat).
-- Les instruccions personalitzades del projecte (ho veurem al punt 8).
+- Les instruccions personalitzades del projecte (ho veurem més endevant).
 - Allò que hi afegeixis explícitament.
 
 ### Afegir context de manera explícita
