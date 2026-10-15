@@ -19,6 +19,7 @@ Els temes de teoria del bloc es troben a la pàgina de [Teoria](teoria/index.md)
 6. [Orquestració d'agents amb OpenClaw](teoria/06-openclaw.md)
 7. [GitHub Copilot: fonaments i ús](teoria/07-copilot-fonaments.md)
 8. [Prompting i flux de treball amb Copilot](teoria/08-copilot-prompting-flux.md)
+9. [Verificació, seguretat i ús responsable](teoria/09-copilot-verificacio-seguretat.md)
 
 ## Activitats
 

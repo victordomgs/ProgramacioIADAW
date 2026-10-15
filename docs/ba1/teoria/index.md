@@ -68,6 +68,13 @@ Continguts teòrics del bloc d'avaluació 1, organitzats per temes.
 
     [:octicons-book-24: Llegeix la teoria](08-copilot-prompting-flux.md){ .md-button }
 
+-   :material-shield-check-outline: **9. Verificació, seguretat i ús responsable**
+
+    ---
+    Com verificar el codi generat, vulnerabilitats habituals (injecció SQL, XSS, secrets, *slopsquatting*), privacitat, injecció de prompts i normes d'ús de Copilot al mòdul.
+
+    [:octicons-book-24: Llegeix la teoria](09-copilot-verificacio-seguretat.md){ .md-button }
+
 </div>
 
 ## Relació amb les activitats
@@ -82,3 +89,4 @@ Continguts teòrics del bloc d'avaluació 1, organitzats per temes.
 | [6. Orquestració d'agents amb OpenClaw](06-openclaw.md) | [AEA3 · Desplegament d'OpenClaw](../aea03-desplegament-openclaw/index.md), [AEA4 · Agent camp OpenClaw](../aea04-agent-openclaw/index.md) |
 | [7. GitHub Copilot: fonaments i ús](07-copilot-fonaments.md) | [AEA2 · Modernització d'un SaaS](../aea02-modernitzacio-saas/index.md) |
 | [8. Prompting i flux de treball amb Copilot](08-copilot-prompting-flux.md) | [AEA2 · Modernització d'un SaaS](../aea02-modernitzacio-saas/index.md) |
+| [9. Verificació, seguretat i ús responsable](09-copilot-verificacio-seguretat.md) | [AEA2 · Modernització d'un SaaS](../aea02-modernitzacio-saas/index.md) |

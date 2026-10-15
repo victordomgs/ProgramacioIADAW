@@ -100,6 +100,7 @@ nav:
           - "6. Orquestració amb OpenClaw": ba1/teoria/06-openclaw.md
           - "7. GitHub Copilot: fonaments i ús": ba1/teoria/07-copilot-fonaments.md
           - "8. Prompting i flux de treball amb Copilot": ba1/teoria/08-copilot-prompting-flux.md
+          - "9. Verificació, seguretat i ús responsable": ba1/teoria/09-copilot-verificacio-seguretat.md
       - "AEA0 · Presentació i diagnòstic": ba1/aea00-inici/index.md
       - "AEA1 · Prompt engineering": ba1/aea01-prompt-engineering/index.md
       - "AEA2 · Modernització d'un SaaS": ba1/aea02-modernitzacio-saas/index.md
