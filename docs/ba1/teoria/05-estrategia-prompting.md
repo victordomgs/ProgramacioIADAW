@@ -144,7 +144,3 @@ Si una instrucció no funciona com s'espera, és molt probable que hi hagi un pr
     - [ ] **Mode de pensament (*thinking*) enfront de raonament manual:** si utilitzes models amb capacitat de pensament intern, prescindeix d'instruccions massa detallades sobre com ha de raonar. Comprova si el pensament nadiu del model ofereix millors resultats que guiar-lo pas a pas.
     - [ ] **Lògica dispersa o referències encreuades:** evita estructures condicionals o no lineals que obliguin el model a relacionar fragments d'instruccions escampats pel text.
     - [ ] **Risc d'injecció d'instruccions (*prompt injection*):** aplica mecanismes de protecció i delimitadors clars en incorporar dades externes o entrades d'usuaris no fiables, ja que poden constituir una vulnerabilitat de seguretat greu.
-
----
-
-**Activitat relacionada:** [AEA1 · Pràctica de prompting](../aea01-prompt-engineering/index.md)
