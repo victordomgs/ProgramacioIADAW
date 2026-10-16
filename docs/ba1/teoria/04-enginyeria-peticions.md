@@ -127,7 +127,3 @@ Aquests són alguns dels casos habituals en què el model sol rebutjar la petici
 | **Assetjament** | Contingut amenaçador, intimidatori, abusiu o que fomenti l'assetjament dirigit a una persona. |
 | **Contingut sexual explícit** | Peticions que descriuen o demanen referències a actes sexuals o material obscè. |
 | **Contingut perillós** | Missatges que facilitin, incentivin o promoguin activitats nocives, així com l'accés a béns o serveis il·legals o perjudicials. |
-
----
-
-**Activitat relacionada:** [AEA1 · Pràctica de prompting](../aea01-prompt-engineering/index.md)
