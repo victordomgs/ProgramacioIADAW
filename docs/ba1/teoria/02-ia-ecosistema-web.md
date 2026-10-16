@@ -99,7 +99,3 @@ El model tradicional de "crear un tiquet i esperar 48 hores" està sent reempla�
 
 - **Com funciona:** Implementació d'arquitectures de Generació Augmentada per Recuperació (Retrieval-Augmented Generation), on un assistent virtual (xat) té accés a una base de coneixement interna vectoritzada (manuals de producte, polítiques de devolució, FAQs).
 - **Avantatge web:** Ofereix respostes precises, contrastades i lliures d'al·lucinacions basades exclusivament en la documentació oficial de l'empresa, operant 24/7 i resolent fins al 70-80% de les consultes recurrents de primer nivell.
-
----
-
-**Activitat relacionada:** [AEA2 · Modernització d'un SaaS](../aea02-modernitzacio-saas/index.md)
