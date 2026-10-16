@@ -128,3 +128,9 @@ flowchart LR
 | **Medicina** | Diagnòstic mèdic, cirurgia, medicina personalitzada, etc. |
 | **Enginyeria** | Disseny, control de processos, etc. |
 | **Finances** | Predicció de mercats, recomanació d'inversions, etc. |
+
+---
+
+## Per saber-ne més
+
+- [Curs gratuït Microsoft](https://learn.microsoft.com/es-es/training/modules/get-started-ai-fundamentals/)
