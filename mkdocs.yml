@@ -109,9 +109,7 @@ nav:
       - "AEA2 · Modernització d'un SaaS": ba1/aea02-modernitzacio-saas/index.md
       - "AEA3 · Desplegament d'OpenClaw": ba1/aea03-desplegament-openclaw/index.md
       - "AEA4 · Agent camp OpenClaw": ba1/aea04-agent-openclaw/index.md
-      - "AEA5 · Programació assistida amb Copilot":
-          - ba1/aea05-copilot/index.md
-          - "Pràctica guiada": ba1/aea05-copilot/practica.md
+      - "AEA5 · Programació assistida amb Copilot": ba1/aea05-copilot/index.md
   - "BA2 · Serveis d'IA i RAG":
       - ba2/index.md
       - "RA3 · Consum d'APIs i serveis d'IA": ba2/ra3-apis-serveis-ia/index.md

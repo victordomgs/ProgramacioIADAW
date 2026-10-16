@@ -10,7 +10,7 @@
 
 Pràctica guiada per treballar amb GitHub Copilot en un projecte real. Primer gestionaràs el projecte a GitHub i delegaràs una tasca a l'agent al núvol. Després practicaràs el flux de treball complet a VS Code: entendre, depurar, implementar, provar i documentar. Finalment, auditaràs i corregiràs la seguretat del codi.
 
-[:material-book-open-variant: Enunciat de la pràctica](practica.md){ .md-button .md-button--primary }
+[:material-file-word: Descarrega el document de l'activitat (.docx)](fitxers/DAW_M0617_BA1-AEA5_Programacio_assistida_amb_Copilot_I_2026-27.docx){ .md-button .md-button--primary }
 [:material-folder-zip: Descarrega el projecte inicial (.zip)](fitxers/botiga-copilot.zip){ .md-button }
 
 ## Teoria relacionada
