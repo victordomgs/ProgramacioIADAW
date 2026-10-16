@@ -134,3 +134,4 @@ flowchart LR
 ## Per saber-ne més
 
 - [Curs gratuït Microsoft](https://learn.microsoft.com/es-es/training/modules/get-started-ai-fundamentals/)
+- [Sèrie IBM AI Fundamentals](https://www.youtube.com/playlist?list=PLOspHqNVtKADfxkuDuHduUkDExBpEt3DF)
