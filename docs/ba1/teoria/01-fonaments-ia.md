@@ -128,7 +128,3 @@ flowchart LR
 | **Medicina** | Diagnòstic mèdic, cirurgia, medicina personalitzada, etc. |
 | **Enginyeria** | Disseny, control de processos, etc. |
 | **Finances** | Predicció de mercats, recomanació d'inversions, etc. |
-
----
-
-**Activitat relacionada:** [AEA0 · Què sabem sobre la IA?](../aea00-inici/index.md#diagnostic)
