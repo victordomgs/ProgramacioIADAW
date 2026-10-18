@@ -20,18 +20,6 @@ Tot flueix a través d'un únic dimoni anomenat **Gateway**. Es manté en execuc
 4. El model respon amb instruccions que *Pi* executa localment.
 5. Els resultats de l'execució tornen a través del Gateway cap al nostre xat.
 
-### El Gateway
-
-El **Gateway** és el procés central i el pla de control local (*control plane*) d'OpenClaw. Funciona com la font principal d'informació i l'orquestrador de tot el sistema. Les seves funcions són:
-
-- Connectar l'assistent amb les diferents plataformes de missatgeria (Telegram, WhatsApp, Discord, Slack, etc.).
-- Rebre els missatges entrants, gestionar les sessions dels usuaris i mantenir el context.
-- Executar les crides als proveïdors de models de llenguatge (LLM) i invocar les eines i *plugins* necessaris.
-
-## Configuració en un sistema Ubuntu
-
-La configuració d'OpenClaw i d'un agent des de zero es fa mitjançant la seva interfície de línia d'ordres (`openclaw` CLI) i el fitxer de configuració central. El procés complet té aquestes fases:
-
 ```mermaid
 sequenceDiagram
     participant U as Usuari (WhatsApp, Telegram, Discord, CLI)
@@ -45,6 +33,24 @@ sequenceDiagram
     P->>P: Execució local
     P-->>G: Resultats
     G-->>U: Resposta al xat
+```
+
+### El Gateway
+
+El **Gateway** és el procés central i el pla de control local (*control plane*) d'OpenClaw. Funciona com la font principal d'informació i l'orquestrador de tot el sistema. Les seves funcions són:
+
+- Connectar l'assistent amb les diferents plataformes de missatgeria (Telegram, WhatsApp, Discord, Slack, etc.).
+- Rebre els missatges entrants, gestionar les sessions dels usuaris i mantenir el context.
+- Executar les crides als proveïdors de models de llenguatge (LLM) i invocar les eines i *plugins* necessaris.
+
+## Configuració en un sistema Ubuntu
+
+La configuració d'OpenClaw i d'un agent des de zero es fa mitjançant la seva interfície de línia d'ordres (`openclaw` CLI) i el fitxer de configuració central. El procés complet té aquestes fases:
+
+```mermaid
+flowchart LR
+    A[1. Preparar<br/>el sistema] --> B[2. Node.js 24] --> C[3. OpenClaw CLI] --> D[4. Assistent<br/>inicial]
+    D --> E[5. Ajustos] --> F[6. Connexió<br/>amb el model] --> G[7. Gateway<br/>daemon] --> H[8. Crear<br/>l'agent] --> I[9. Provar<br/>l'agent]
 ```
 
 !!! abstract "Escenari de la pràctica"
