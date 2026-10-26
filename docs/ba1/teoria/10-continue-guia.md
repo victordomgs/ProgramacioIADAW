@@ -1,4 +1,4 @@
-# Guia: sabIA a Visual Studio Code amb Continue
+# Guia: Visual Studio Code amb Continue
 
 Aquesta guia explica com instal·lar **Continue**, una extensió lliure (*open source*) per a Visual Studio Code, i com connectar-la a **sabIA**, la intel·ligència artificial de l'Institut Sabadell. Així tindràs un assistent de programació semblant a GitHub Copilot dins de l'editor, amb un model que funciona **als servidors de l'institut**: el teu codi no surt del centre.
 
