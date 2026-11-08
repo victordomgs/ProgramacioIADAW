@@ -10,4 +10,4 @@
 
 Pràctica lliure per treballar amb grups.
 
-[:material-file-word: Descarrega el document de l'activitat (.docx)](fitxers/DAW_M0617_BA1-AEA6_Vibe Coding I 2026-27.docx){ .md-button .md-button--primary }
+[:material-file-word: Descarrega el document de l'activitat (.docx)](fitxers/DAW_M0617_BA1-AEA6_Vibe_Coding_I_2026-27.docx){ .md-button .md-button--primary }
