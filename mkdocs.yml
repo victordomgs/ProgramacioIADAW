@@ -111,6 +111,7 @@ nav:
       - "AEA3 · Desplegament d'OpenClaw": ba1/aea03-desplegament-openclaw/index.md
       - "AEA4 · Agent camp OpenClaw": ba1/aea04-agent-openclaw/index.md
       - "AEA5 · Programació assistida amb Copilot": ba1/aea05-copilot/index.md
+      - "AEA6 · Vibe Coding": ba1/aea06-vibe-coding/index.md
   - "BA2 · Serveis d'IA i RAG":
       - ba2/index.md
       - "RA3 · Consum d'APIs i serveis d'IA": ba2/ra3-apis-serveis-ia/index.md
