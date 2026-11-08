@@ -32,6 +32,7 @@ Els temes de teoria del bloc es troben a la pàgina de [Teoria](teoria/index.md)
 | [AEA3 · Desplegament d'OpenClaw](aea03-desplegament-openclaw/index.md) | 2 h | 1.1, 1.2, 1.3, 1.4, 2.1, 2.4 | Examen |
 | [AEA4 · Agent camp OpenClaw](aea04-agent-openclaw/index.md) | 3 h | 1.1, 1.2, 1.3, 1.4, 2.1, 2.4 | Examen i pràctica avaluable |
 | [AEA5 · Programació assistida amb Copilot](aea05-copilot/index.md) | 6 h | 1.3, 2.1, 2.2, 2.3, 2.4 | Pràctica avaluable |
+| [AEA6 · Vibe Coding](aea06-vibe-coding/index.md) | 15 h | 1.3, 2.1, 2.2, 2.3, 2.4 | Pràctica avaluable |
 
 ## Avaluació del bloc
 
