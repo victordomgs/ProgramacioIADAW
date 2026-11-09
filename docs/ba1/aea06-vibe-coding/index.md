@@ -4,7 +4,7 @@
 
 | Durada | RA / CA | Instruments d'avaluació |
 |---|---|---|
-| 6 h aprox. | RA1, RA2 / 1.3, 2.1, 2.2, 2.3, 2.4 | Pràctica avaluable |
+| 12 h aprox. | RA1, RA2 / 1.3, 2.1, 2.2, 2.3, 2.4 | Pràctica avaluable |
 
 </div>
 
